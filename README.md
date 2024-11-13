@@ -6,7 +6,7 @@ Simple yet efficient tweaking tool for low end pc/laptop to boost Gaming Experie
 
 
 ---
-Download the zip file and run `Start Tweaking.bat`
+Download the zip file from https://github.com/GokulSamraj/Hell-Scapes-Tweaking-Tool/releases/tag/Release and run `Start Tweaking.bat`
 ## Acknowledgements
 
  - [Set useless services to manual](https://gist.github.com/Brandonbr1/e93fc0219ba68fa0ed37a5f1e4717c1d)
