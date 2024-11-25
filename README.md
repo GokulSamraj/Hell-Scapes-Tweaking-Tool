@@ -21,7 +21,7 @@ It is safe to use because its open source and all the tweaks it to reduce useles
 
 #### Will this boost FPS?
 
-Basically it stables the fps and refuse lags but in certain situations it will boost fps too.
+Basically it stables the fps and reduce lags but in certain situations it will boost fps too.
 
 
 ## Support
